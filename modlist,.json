@@ -1,0 +1,13 @@
+{
+  "mods": [
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/Cloth_Config_API_17.0.144_fabric_MC1.21.4.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/coroutil-fabric-1.21.4-1.3.8.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/fabric-api-0.119.4+1.21.4.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/gravity-core-block-crakq44l.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/Jade-1.21.4-Fabric-17.2.2.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/more-buttons-data-pack-1.4.1.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/redstone-capacitor-1.0.2.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/Text_Placeholder_API_2.5.2_1.21.3_MC1.21.2.jar",
+    "https://raw.githubusercontent.com/wwhambug/modsync/main/watut-fabric-1.21.4-1.2.5.jar"
+  ]
+}
