@@ -32,12 +32,6 @@
       "type": "mod"
     },
     {
-      "url": "https://raw.githubusercontent.com/wwhambug/modsync/main/gravity-core-block-crakq44l.jar",
-      "name": "Gravity Core Block",
-      "version": "crakq44l",
-      "type": "mod"
-    },
-    {
       "url": "https://raw.githubusercontent.com/wwhambug/modsync/main/more-buttons-data-pack-1.4.1.jar",
       "name": "More Buttons Data Pack",
       "version": "1.4.1",
