@@ -43,15 +43,5 @@
       "version": "1.2.5",
       "type": "mod"
     }
-  ],
-  "modify": [
-    {
-      "action": "delete",
-      "name": "more-buttons-data-pack-1.4.1.jar"
-    },
-    {
-      "action": "delete",
-      "name": "gravity-core-block-crakq44l.jar"
-    }
   ]
 }
